@@ -1,16 +1,21 @@
-# Arif (Bravo42)
+# Hi, I'm Arif (Bravo42)
 
-Computer Science and Engineering (CSE) student with strong interest in software development and cybersecurity. I enjoy building practical applications and continuously improving my programming and problem-solving skills.
+   Computer Science and Engineering (CSE) Student
+   Software Developer |  Cybersecurity Enthusiast
+   Passionate about building practical software and solving real-world problems.
 
 ---
 
 ## About Me
 
-* Undergraduate student in Computer Science and Engineering
-* Interested in Software Development and Cybersecurity
-* Focused on building real-world projects
-* Passionate about learning new technologies and improving coding skills
-* Goal: To become a professional software developer and cybersecurity expert
+* Undergraduate student in Computer Science and Engineering (CSE).
+* Studying in Bangladesh Army University of Science and Technology (BAUST), Saidpur.
+* Strong interest in **Software Development** and **Cybersecurity**
+* Focused on building **real-world applications**
+* Continuously improving programming and problem-solving skills.
+* Dedicated to learning modern technologies and best practices.
+* Career Goal
+  Become a **professional software developer** and **cybersecurity expert**.
 
 ---
 
@@ -29,54 +34,128 @@ Computer Science and Engineering (CSE) student with strong interest in software 
 * JavaScript
 * PHP
 
-### Tools and Technologies
+### Tools & Technologies
 
-* Git and GitHub
+* Git & GitHub
 * VS Code
 * JavaFX
 * MySQL
 
 ---
 
-## Current Projects
+##  Projects
 
-* Family Health Record Management System
-  Desktop application developed using JavaFX
+### HealNest – Family Health Record Management System
 
-* Alumni Networking and Directory System
-  Web-based project developed using HTML, CSS, JavaScript, PHP, and MySQL
+Desktop application developed using **JavaFX**
 
-* Cybersecurity Learning
-  Practicing networking and basic security concepts
+**Key Features**
+
+* Member profile management
+* Health record tracking
+* Prescription and lab report uploads
+* Emergency contact management
+* Dashboard-based navigation
+
+---
+
+### Alumni Networking and Directory System
+
+Web-based project developed using **HTML, CSS, JavaScript, PHP, MySQL**
+
+**Key Features**
+
+* Alumni profile management
+* Search and directory system
+* Secure login system
+* Database-driven data management
+
+---
+
+### SecureDroid
+
+Cybersecurity-focused project (Security concept-based development)
+
+**Focus Areas**
+
+* Security fundamentals
+* Basic protection mechanisms
+* Secure system design concepts
+
+---
+
+### CRpilot – Room Allocation and Management System *(Running Project)*
+
+**Focus Areas**
+
+* Room allocation automation
+* Management dashboard
+* Data organization system
+* Ongoing feature development
 
 ---
 
 ## Learning Focus
 
-* Object-Oriented Programming
-* Data Structures and Algorithms
-* Cybersecurity Fundamentals
-* Software Development Best Practices
+Currently strengthening knowledge in:
+
+* Software Engineering.
+* Compiler
+* Cybersecurity Fundamentals.
+* Software Development Best Practices.
+* Networking Basics.
 
 ---
 
+## Project Showcasing Experience
+
+Participated in a **University Project Showcasing Event**, where I presented:
+
+## HealNest – Family Health Record Management System
+
+Desktop application developed using **JavaFX**
+
+**Presented Features**
+
+* Member profile management
+* Health record tracking
+* Prescription and lab report uploads
+* Emergency contact management
+* Dashboard-based navigation
+
+**Experience Gained**
+
+* Demonstrated project functionality to visitors and faculty
+* Explained system design and technical implementation
+* Received feedback to improve usability and features
+
+
 ## Collaboration
 
-Open to collaborating on:
+I am open to collaborating on:
 
-* Java desktop applications
-* Web development projects
-* Beginner to intermediate open-source projects
+* Java Desktop Applications
+* Web Development Projects
+* Beginner to Intermediate Open-Source Projects
+* Cybersecurity Learning Projects
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/arif42sh
-Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub
+  https://github.com/arif42sh
+
+* Email
+  [arif42sh@gmail.com]
 
 ---
 
-## Objective
+##  Objective
 
-To build reliable software solutions, contribute to meaningful projects, and grow as a cybersecurity professional.
+To build reliable and secure software solutions, contribute to meaningful projects and grow into a skilled **software developer** and **cybersecurity professional**.
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
+  
