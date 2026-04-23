@@ -1,4 +1,4 @@
-# Hi, I'm Arif (Bravo42)
+# Hi, I'm Arif 
 
    Computer Science and Engineering (CSE) Student
    Software Developer |  Cybersecurity Enthusiast
@@ -110,9 +110,9 @@ Currently strengthening knowledge in:
 ## Project Showcasing Experience
 
 Participated in a **University Project Showcasing Event**, where I presented:
+## Presented Project
 
-## HealNest – Family Health Record Management System
-
+HealNest – Family Health Record Management System
 Desktop application developed using **JavaFX**
 
 **Presented Features**
@@ -134,10 +134,10 @@ Desktop application developed using **JavaFX**
 
 I am open to collaborating on:
 
-* Java Desktop Applications
-* Web Development Projects
-* Beginner to Intermediate Open-Source Projects
-* Cybersecurity Learning Projects
+* Software Development.
+* Web Development Projects.
+* Beginner to Intermediate Open-Source Projects.
+* Cybersecurity Learning Projects.
 
 ---
 
@@ -157,5 +157,5 @@ To build reliable and secure software solutions, contribute to meaningful projec
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+
   
