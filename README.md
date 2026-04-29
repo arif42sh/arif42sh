@@ -101,7 +101,6 @@ Currently strengthening knowledge in:
 
 * Software Engineering.
 * Compiler
-* Cybersecurity Fundamentals.
 * Software Development Best Practices.
 * Networking Basics.
 
