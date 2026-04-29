@@ -38,6 +38,7 @@
 
 * Git & GitHub
 * VS Code
+* Android Studio
 * JavaFX
 * MySQL
 
