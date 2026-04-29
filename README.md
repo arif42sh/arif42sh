@@ -4,7 +4,7 @@
    Software Developer |  Cybersecurity Enthusiast
    Passionate about building practical software and solving real-world problems.
 
----
+
 
 ## About Me
 
@@ -17,7 +17,7 @@
 * Career Goal
   Become a **professional software developer** and **cybersecurity expert**.
 
----
+
 
 ## Skills
 
@@ -42,7 +42,7 @@
 * JavaFX
 * MySQL
 
----
+
 
 ##  Projects
 
@@ -58,7 +58,7 @@ Desktop application developed using **JavaFX**
 * Emergency contact management
 * Dashboard-based navigation
 
----
+
 
 ### Alumni Networking and Directory System
 
@@ -71,7 +71,7 @@ Web-based project developed using **HTML, CSS, JavaScript, PHP, MySQL**
 * Secure login system
 * Database-driven data management
 
----
+
 
 ### SecureDroid
 
@@ -83,7 +83,7 @@ Cybersecurity-focused project (Security concept-based development)
 * Basic protection mechanisms
 * Secure system design concepts
 
----
+
 
 ### CRpilot – Room Allocation and Management System *(Running Project)*
 
@@ -94,7 +94,7 @@ Cybersecurity-focused project (Security concept-based development)
 * Data organization system
 * Ongoing feature development
 
----
+
 
 ## Learning Focus
 
@@ -105,7 +105,7 @@ Currently strengthening knowledge in:
 * Software Development Best Practices.
 * Networking Basics.
 
----
+
 
 ## Project Showcasing Experience
 
@@ -139,7 +139,7 @@ I am open to collaborating on:
 * Beginner to Intermediate Open-Source Projects.
 * Cybersecurity Learning Projects.
 
----
+
 
 ## Contact
 
@@ -149,13 +149,13 @@ I am open to collaborating on:
 * Email
   [arif42sh@gmail.com]
 
----
+
 
 ##  Objective
 
 To build reliable and secure software solutions, contribute to meaningful projects and grow into a skilled **software developer** and **cybersecurity professional**.
 
----
+
 
 
   
