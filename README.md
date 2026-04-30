@@ -1,8 +1,8 @@
 # Hi, I'm Arif 
 
-   Computer Science and Engineering (CSE) Student
-   Software Developer |  Cybersecurity Enthusiast
-   Passionate about building practical software and solving real-world problems.
+Computer Science and Engineering (CSE) Student  
+Cybersecurity Enthusiast  
+Passionate about building practical software and solving real-world problems.
 
 
 
