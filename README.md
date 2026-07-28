@@ -6,25 +6,25 @@ Computer Science & Engineering Student and Cybersecurity Enthusiast focused on d
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Pursuing a B.Sc. in **Computer Science and Engineering** at **Bangladesh Army University of Science and Technology (BAUST), Saidpur**.
-- 🛡️ Deeply interested in **Secure Software Development**, data validation and threat mitigation.
-- 💻 Actively working on full-stack web engineering, desktop solutions and mobile app ecosystems.
-- 🎯 **Career Goal:** To grow into a high-impact Professional Software Developer and Cybersecurity Architect.
+- Pursuing a B.Sc. in **Computer Science and Engineering** at **Bangladesh Army University of Science and Technology (BAUST), Saidpur**.
+- Deeply interested in **Secure Software Development**, data validation and threat mitigation.
+- Actively working on full-stack web engineering, desktop solutions and mobile app ecosystems.
+- **Career Goal:** To grow into a high-impact Professional Software Developer and Cybersecurity Architect.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
-### 🌐 Web & Database Technologies
+### Web & Database Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -33,7 +33,7 @@ Computer Science & Engineering Student and Cybersecurity Enthusiast focused on d
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-### 🔧 Tools & Frameworks
+### Tools & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
@@ -43,7 +43,7 @@ Computer Science & Engineering Student and Cybersecurity Enthusiast focused on d
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
 ### 🏥 HealNest – Family Health Record Management System
 > **Desktop Application | JavaFX & MySQL**
@@ -54,7 +54,7 @@ Computer Science & Engineering Student and Cybersecurity Enthusiast focused on d
     *   One-click emergency contact management.
 *   *🏆 Proudly presented at the University Project Showcasing Event, gaining valuable feedback on user experience and system implementation.*
 
-### 🌐 Alumni Networking and Directory System
+### Alumni Networking and Directory System
 > **Web Application | PHP, JavaScript, MySQL, HTML5/CSS3**
 *   **Overview:** A platform designed to bridge the gap between current students and university alumni.
 *   **Key Features:** 
@@ -62,26 +62,26 @@ Computer Science & Engineering Student and Cybersecurity Enthusiast focused on d
     *   Secure login architecture with robust backend data validation.
     *   Profile personalization and management dashboard.
 
-### 🤖 CRpilot – Room Allocation & Classroom Management
+### CRpilot – Room Allocation & Classroom Management
 > **Mobile/Web Solution | In Development (Running Project)**
 *   **Overview:** An automated scheduling helper designed to optimize classroom allocation and teacher tracking.
 *   **Key Features:** Real-time room booking simulation, automated conflict resolution, and CR-centric notification flow.
 
-### 🛡️ SecureDroid
+### SecureDroid
 > **Cybersecurity Concept Project**
 *   **Overview:** A dedicated environment focused on implementing secure application design principles, basic patch management, and fundamental defensive programming logic.
 
 ---
 
-## 📚 Currently Leveling Up
+## Currently Leveling Up
 I am actively expanding my knowledge in:
-- 🏗️ **Software Engineering Architecture & Compilers**
-- 🔒 **Advanced Web Security Best Practices (OWASP Top 10)**
-- 🌐 **Network Layer Security & Protocols**
+- **Software Engineering Architecture & Compilers**
+- **Advanced Web Security Best Practices (OWASP Top 10)**
+- **Network Layer Security & Protocols**
 
 ---
 
-## 🤝 Open for Collaboration
+## Open for Collaboration
 I’m always excited to work on:
 - Full-Stack Web Development & Android Ecosystems
 - Open-Source Projects (Beginner to Intermediate)
@@ -89,7 +89,7 @@ I’m always excited to work on:
 
 ---
 
-## 📩 Let's Connect!
+## Let's Connect!
 
 <p align="left">
   <a href="mailto:arif42sh@gmail.com">
